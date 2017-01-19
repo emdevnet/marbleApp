@@ -1,6 +1,8 @@
 # Marble App
 Projet de travail sur les applications mobiles hybrides avec Cordova.
 
+![Démo de l'application](https://media.giphy.com/media/l3q2uAiSo0MNh8aK4/source.gif)
+
 --------------
 
 ## Installation
